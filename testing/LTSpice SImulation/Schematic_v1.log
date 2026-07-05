@@ -1,0 +1,16 @@
+LTspice 26.0.1 for Windows
+Circuit: D:\UoM Directory\Semester Two\EN1190 Engineering Design Project\SPICE Simulation\Schematic_v1.net
+Start Time: Mon Jun 29 16:54:55 2026
+solver = Normal
+Maximum thread count: 32
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.117 seconds.
+
+Files loaded:
+D:\UoM Directory\Semester Two\EN1190 Engineering Design Project\SPICE Simulation\Schematic_v1.net
+C:\Users\TUDambarage\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\TUDambarage\AppData\Local\LTspice\lib\cmp\standard.mos
+
