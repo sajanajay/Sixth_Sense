@@ -70,18 +70,17 @@ The rider never needs to take their eyes off the road.
 
 # Demo
 
-> **See Sixth Sense in action**
-
-<!-- VIDEO/GIF -->
+## 🎥 Demo
 
 <p align="center">
-
-<img src="assets/gifs/demo.gif" width="90%">
-
+  <a href="https://drive.google.com/file/d/1ffC6w6P3MY6zFnOaW4FhN-ex5IwfBISE/view?usp=drive_link">
+    <img src="assets/images/demo_thumbnail.png" width="90%" alt="Watch Demo">
+  </a>
 </p>
 
----
-
+<p align="center">
+<b>▶ Click the image above to watch the demonstration</b>
+</p>
 # Product Showcase
 
 ## Complete System
