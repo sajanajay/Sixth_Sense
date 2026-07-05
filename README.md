@@ -370,8 +370,10 @@ Not another gadget.
 | A.Y.D. Perera | Schematic Design • Mechanical Design • Assembly |
 
 <img width="398" height="451" alt="Team_Sixth_Sense" src="https://github.com/user-attachments/assets/51afc58e-38a6-479b-b9fc-0ebb1ce4547d" />
+
+
 From Left to Right => A.Y.D. Perera, H.R.A.I. Jayasinghe, T.U. Dambarage,  S.N. Jayasooriya
----
+
 
 # Acknowledgements
 
