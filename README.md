@@ -1,7 +1,3 @@
-# Sixth_Sense
-​A radar-based bicycle safety system that detects fast-approaching rear traffic and provides immediate left/right haptic warnings to the rider's handlebars.
-<img width="1536" height="1024" alt="Github_cover" src="https://github.com/user-attachments/assets/7d083596-623d-4fbd-b1c6-ac0146f23be5" />
-
 <div align="center">
 
 # 🚴 Sixth Sense
@@ -10,10 +6,8 @@
 
 *A radar-powered embedded safety system that gives cyclists a new sense of awareness through intuitive haptic feedback.*
 
----
+<img width="1536" height="1024" alt="Github_Cover" src="https://github.com/user-attachments/assets/bde24231-53fd-4e80-b457-1d2c3f503a56" />
 
-<!-- HERO IMAGE -->
-<img src="assets/images/hero.png" width="100%">
 
 **Engineering Design Project**
 
