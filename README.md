@@ -87,7 +87,7 @@ The rider never needs to take their eyes off the road.
 
 > Replace with a professional render
 
-![](assets/images/product_render.png)
+![](assets/images/exploded.png)
 
 ---
 
@@ -199,9 +199,9 @@ Contains
 
 📷
 
-```
-assets/images/central_unit.jpg
-```
+
+![](assets/images/cen.png)
+
 
 ---
 
@@ -225,23 +225,15 @@ Professional two-layer PCB designed specifically for Sixth Sense.
 
 ### Schematic
 
-```
-assets/images/schematic.png
-```
+![](assets/images/schematic.png)
 
 ### PCB Layout
 
-```
-assets/images/pcb_layout.png
-```
+![](assets/images/pcb_layout.png)
 
 ### 3D PCB
 
-```
-assets/images/pcb3d.png
-```
-
----
+![](assets/images/pcb3d.png)
 
 # Mechanical Design
 
