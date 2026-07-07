@@ -85,17 +85,15 @@ The rider never needs to take their eyes off the road.
 
 ## Complete System
 
-> Replace with a professional render
 
 ![](assets/images/exploded.png)
 
----
+
 
 ## Mounted on Bicycle
 
 ![](assets/images/final_prototype.png)
 
----
 
 # Key Features
 
@@ -123,7 +121,6 @@ The rider never needs to take their eyes off the road.
 
 ✔ Lightweight Bicycle Integration
 
----
 
 # How It Works
 
@@ -161,15 +158,15 @@ The rider never needs to take their eyes off the road.
  Rider receives intuitive tactile warning
 ```
 
----
+
 
 # System Architecture
 
-> Replace with system architecture image
+
 
 ![](assets/images/system_architecture.png)
 
----
+
 
 # Hardware Overview
 
@@ -179,11 +176,7 @@ Captures approaching vehicles using 24 GHz FMCW radar technology.
 
 📷
 
-```
-assets/images/rear_sensor.jpg
-```
-
----
+![](assets/images/rear_sensor.png)
 
 ## Central Processing Unit
 
@@ -197,25 +190,19 @@ Contains
 - Battery
 - Firmware
 
-📷
 
 
-![](assets/images/cen.png)
+![](assets/images/central_unit.jpg)
 
 
----
+
 
 ## Haptic Feedback Units
 
 Mounted beside both brake levers to provide intuitive directional warnings.
 
-📷
 
-```
-assets/images/haptic_units.jpg
-```
-
----
+![](assets/images/haptic_units.png)
 
 # Electronics
 
@@ -241,45 +228,24 @@ Designed completely in **SolidWorks**
 
 ## Initial Concepts
 
-```
-assets/images/concepts.png
-```
-
----
+![](assets/images/concepts.png)
 
 ## Engineering Drawings
 
-```
-assets/images/drawings.png
-```
-
----
+![](assets/images/drawings.png)
 
 ## Exploded Assembly
-
-```
-assets/images/exploded.png
-```
-
----
+![](assets/images/system_architecture.png)
 
 ## CAD Assembly
 
-```
-assets/images/cad_assembly.png
-```
+![](assets/images/system_architecture.png)
 
----
 
-# Prototype
 
 ## Final Assembly
 
-```
-assets/images/final_prototype.png
-```
-
----
+![](assets/images/final_prototype.png)
 
 # Built With
 
