@@ -93,7 +93,7 @@ The rider never needs to take their eyes off the road.
 
 ## Mounted on Bicycle
 
-![](assets/images/bike_installation.jpg)
+![](assets/images/final_prototype.png)
 
 ---
 
