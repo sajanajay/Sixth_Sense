@@ -78,6 +78,14 @@ The rider never needs to take their eyes off the road.
   </a>
 </p>
 
+## 🎥 PCB Functionality Testing
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/12CS2pHYX-PVSih4xlRxphCRVApFPQM8z?usp=sharing">
+    <img src="assets/images/testing_thumbnail.png" width="90%" alt="Watch Testing">
+  </a>
+</p>
+
 <p align="center">
 <b>▶ Click the image above to watch the demonstration</b>
 </p>
@@ -176,7 +184,7 @@ Captures approaching vehicles using 24 GHz FMCW radar technology.
 
 📷
 
-![](assets/images/rear_sensor.png)
+![](assets/images/rear_sensor.jpg)
 
 ## Central Processing Unit
 
